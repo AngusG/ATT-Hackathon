@@ -1,0 +1,1 @@
+IoT K64 program that sends accel data to bluemix
